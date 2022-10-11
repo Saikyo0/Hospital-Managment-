@@ -1,2 +1,2 @@
 # Hospital-Managment-
-a bland hospital appointments setting system made with kivy/kivymd 
+a bland hospital appointments setting and accessing system made with kivy/kivymd 
